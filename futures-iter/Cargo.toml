@@ -1,0 +1,8 @@
+[package]
+name = "futures-iter"
+version = "0.1.0"
+authors = ["Alexander Kudrevatykh <alexander@kudrevatykh.com>"]
+
+[dependencies]
+futures = "0.1.14"
+
